@@ -1,4 +1,4 @@
-# Bem-vindo à SporTickets!
+# Bem-vindo à SporTickets®!
 **O esporte nasce aqui!**
 
 ---
@@ -16,8 +16,6 @@ Somos a **SporTickets**, fundada em 2025, e nossa missão é facilitar a venda d
 
 ---
 
-Junte-se a nós para transformar eventos esportivos e proporcionar experiências inesquecíveis. **O esporte nasce aqui!**
-
 ## Licença
 
-O código não está disponível para acesso público e não é licenciado para uso externo. Todos os direitos reservados à SporTickets.
+O código não está disponível para acesso público e não é licenciado para uso externo. Todos os direitos reservados à SporTickets®.
