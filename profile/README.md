@@ -3,7 +3,7 @@
 
 ---
 
-Somos a **SporTickets**, fundada em 2025, e nossa missão é facilitar a venda de ingressos para eventos esportivos e gerenciar todas as etapas desses eventos de forma eficiente. Nosso foco é oferecer a melhor experiência para atletas e gestores de eventos.
+Somos a **SporTickets®**, fundada em 2025, e nossa missão é facilitar a venda de ingressos para eventos esportivos e gerenciar todas as etapas desses eventos de forma eficiente. Nosso foco é oferecer a melhor experiência para atletas e gestores de eventos.
 
 ## O Que Fazemos
 - **Venda de Ingressos:** Oferecemos uma plataforma intuitiva para compra de ingressos para eventos esportivos.
