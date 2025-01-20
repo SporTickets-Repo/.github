@@ -19,7 +19,6 @@ Desenvolvemos nossas soluções utilizando:
 - **Website:** [www.sportickets.com.br](https://www.sportickets.com.br)
 - **E-mail:** [contato@sportickets.com.br](mailto:contato@sportickets.com.br)
 
----
 
 Junte-se a nós para transformar eventos esportivos e proporcionar experiências inesquecíveis. **O esporte nasce aqui!**
 
@@ -27,4 +26,4 @@ Junte-se a nós para transformar eventos esportivos e proporcionar experiências
 
 ## Licença
 
-Este repositório é **privado**. O código não está disponível para acesso público e não é licenciado para uso externo. Todos os direitos reservados à SporTickets®.
+O código não está disponível para acesso público e não é licenciado para uso externo. Todos os direitos reservados à SporTickets®.
